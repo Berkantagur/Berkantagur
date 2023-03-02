@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C and Python programming languages.**
 
-- 📫 You can reach me at **berkantagur6@gmail.com**  e-mail address.
+- 📫 You can reach me at **berkantagur6@gmail.com**           e-mail address.
 
 - ⚡ Fun fact **I think I am funny.**
 
