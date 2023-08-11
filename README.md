@@ -25,4 +25,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantagur&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=berkantagur&theme=radical)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/Berkantagur/Berkantagur/blob/output/github-contribution-grid-snake.svg)
