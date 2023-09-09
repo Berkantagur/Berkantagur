@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at **berkantagur6@gmail.com** e-mail address.
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ I'm a cheerful and energetic person
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
