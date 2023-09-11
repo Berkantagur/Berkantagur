@@ -27,6 +27,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Berkantagur&theme=gruvbox&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantagur&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=berkantagur&theme=radical)](https://git.io/streak-stats)
-
