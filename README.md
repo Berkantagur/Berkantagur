@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkantagur&label=Profile%20views&color=0e75b6&style=flat" alt="berkantagur" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C and JS programming languages.**
+- 🌱 I’m currently learning **C programming language.**
 
 - 📫 You can reach me at **berkantagur6@gmail.com** e-mail address.
 
